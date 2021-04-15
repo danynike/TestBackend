@@ -1,0 +1,1 @@
+INSERT INTO Customer (firstName,lastName,process) VALUES('Laura','Steel',false);

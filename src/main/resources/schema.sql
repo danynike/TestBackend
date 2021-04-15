@@ -1,0 +1,5 @@
+CREATE TABLE Customer(
+    ID INTEGER PRIMARY KEY AUTO_INCREMENT, 
+    FirstName VARCHAR(20),
+    LastName VARCHAR(30), 
+    Process BOOLEAN);
